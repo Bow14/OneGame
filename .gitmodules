@@ -1,0 +1,6 @@
+[submodule "https://github.com/Bow14/OneGame/tree/main/Oners/Assets"]
+	path = https://github.com/Bow14/OneGame/tree/main/Oners/Assets
+	url = https://github.com/Bow14/TannersToolSet/tree/main/Scripts
+[submodule "Oners/Assets/Submodule"]
+	path = Oners/Assets/Submodule
+	url = https://github.com/Bow14/TannersToolSet
